@@ -1,0 +1,241 @@
+Order_ID,Date,Region,Salesperson,Category,Product,Units,Unit_Price,Discount_Percent,Revenue,Payment_Method,Customer_Type
+ORD0236,2026-01-05,Sur,Omar,Electronics,Monitor,12,101.04,0,1212.48,Online,Individual
+ORD0186,2026-01-06,Muscat,Mariam,Accessories,USB Hub,4,14.63,0,58.52,Card,Individual
+ORD0203,2026-01-06,Sohar,Fatma,Accessories,Laptop Stand,1,19.95,0,19.95,Card,Individual
+ORD0006,2026-01-07,Muscat,Khalid,Accessories,USB Hub,11,14.98,10,148.3,Card,Business
+ORD0011,2026-01-07,Salalah,Salim,Electronics,Webcam,7,35.23,0,246.61,Cash,Business
+ORD0114,2026-01-08,Nizwa,Yusuf,Accessories,Power Bank,11,22.7,0,249.7,Card,Business
+ORD0208,2026-01-08,Muscat,Mariam,Accessories,USB Hub,3,14.25,0,42.75,Card,Individual
+ORD0015,2026-01-09,Sohar,Ahmed,Electronics,Headphones,10,29.84,5,283.48,Card,Business
+ORD0085,2026-01-09,Nizwa,Huda,Accessories,Laptop Stand,1,19.74,0,19.74,Cash,Individual
+ORD0050,2026-01-11,Muscat,Mariam,Office,Notebook Pack,9,6.08,5,51.98,Card,Individual
+ORD0202,2026-01-11,Sohar,Fatma,Accessories,Laptop Stand,2,19.78,15,33.63,Online,Business
+ORD0058,2026-01-12,Salalah,Noor,Office,Printer Paper,9,5.39,15,41.23,Card,Individual
+ORD0130,2026-01-12,Muscat,Aisha,Office,Notebook Pack,10,6.33,5,60.13,Card,Business
+ORD0098,2026-01-13,Muscat,Aisha,Office,Office Chair,11,67.93,0,747.23,Online,Individual
+ORD0109,2026-01-13,Sur,Layla,Accessories,USB Hub,12,15.31,10,165.35,Cash,Business
+ORD0136,2026-01-14,Muscat,Mariam,Accessories,Power Bank,12,22.95,5,261.63,Online,Business
+ORD0104,2026-01-15,Sohar,Fatma,Electronics,Keyboard,1,21.88,5,20.79,Card,Business
+ORD0225,2026-01-15,Muscat,Mariam,Accessories,Power Bank,11,25.14,0,276.54,Card,Individual
+ORD0019,2026-01-17,Nizwa,Huda,Electronics,Headphones,12,27.34,10,295.27,Cash,Individual
+ORD0105,2026-01-18,Sur,Omar,Electronics,Monitor,2,99.17,5,188.42,Cash,Individual
+ORD0211,2026-01-19,Muscat,Khalid,Accessories,Mouse,12,12.52,0,150.24,Card,Individual
+ORD0221,2026-01-19,Salalah,Noor,Electronics,Monitor,11,92.86,5,970.39,Online,Individual
+ORD0126,2026-01-21,Nizwa,Yusuf,Office,Printer Paper,9,4.7,5,40.19,Cash,Individual
+ORD0135,2026-01-22,Muscat,Khalid,Accessories,Laptop Stand,4,19.62,10,70.63,Online,Individual
+ORD0240,2026-01-24,Muscat,Aisha,Accessories,Laptop Stand,4,19.76,10,71.14,Cash,Business
+ORD0039,2026-01-25,Muscat,Aisha,Electronics,Headphones,12,26.72,5,304.61,Card,Business
+ORD0097,2026-01-25,Salalah,Salim,Electronics,Headphones,4,28.71,5,109.1,Online,Business
+ORD0052,2026-01-27,Sohar,Fatma,Accessories,USB Hub,7,15.71,0,109.97,Cash,Individual
+ORD0082,2026-01-27,Nizwa,Yusuf,Accessories,Laptop Stand,3,20.15,0,60.45,Online,Individual
+ORD0232,2026-01-28,Salalah,Salim,Accessories,Laptop Stand,2,19.51,5,37.07,Online,Individual
+ORD0064,2026-01-29,Sur,Omar,Accessories,USB Hub,12,15.19,10,164.05,Card,Individual
+ORD0116,2026-01-29,Sur,Omar,Electronics,Keyboard,4,23.68,5,89.98,Card,Individual
+ORD0197,2026-01-29,Sohar,Fatma,Electronics,Webcam,3,37.78,0,113.34,Cash,Individual
+ORD0048,2026-01-30,Sur,Omar,Electronics,Webcam,11,36.28,15,339.22,Online,Individual
+ORD0141,2026-01-31,Sohar,Fatma,Office,Notebook Pack,8,5.78,5,43.93,Online,Individual
+ORD0016,2026-02-01,Nizwa,Yusuf,Office,Office Chair,9,71.05,0,639.45,Cash,Individual
+ORD0067,2026-02-01,Muscat,Aisha,Electronics,Webcam,5,37.73,0,188.65,Cash,Individual
+ORD0122,2026-02-02,Sur,Layla,Electronics,Monitor,6,91.63,0,549.78,Card,Individual
+ORD0171,2026-02-03,Sohar,Ahmed,Office,Office Chair,12,68.56,5,781.58,Cash,Individual
+ORD0025,2026-02-04,Sur,Omar,Electronics,Webcam,1,34.13,0,34.13,Card,Individual
+ORD0167,2026-02-04,Muscat,Khalid,Accessories,Laptop Stand,1,20.0,0,20.0,Cash,Individual
+ORD0177,2026-02-04,Salalah,Noor,Accessories,Mouse,8,12.06,0,96.48,Online,Individual
+ORD0179,2026-02-04,Sohar,Fatma,Office,Office Chair,8,71.72,0,573.76,Online,Individual
+ORD0063,2026-02-05,Sur,Omar,Accessories,USB Hub,7,14.06,15,83.66,Online,Business
+ORD0071,2026-02-06,Sohar,Fatma,Office,Desk Lamp,3,18.61,0,55.83,Online,Individual
+ORD0095,2026-02-06,Muscat,Khalid,Office,Printer Paper,5,4.91,0,24.55,Online,Individual
+ORD0009,2026-02-07,Salalah,Noor,Accessories,Power Bank,3,25.42,0,76.26,Online,Individual
+ORD0151,2026-02-10,Nizwa,Yusuf,Office,Notebook Pack,6,6.29,0,37.74,Online,Individual
+ORD0194,2026-02-10,Muscat,Khalid,Accessories,Power Bank,1,24.14,5,22.93,Card,Individual
+ORD0212,2026-02-10,Salalah,Noor,Office,Office Chair,1,75.56,0,75.56,Cash,Individual
+ORD0068,2026-02-12,Muscat,Mariam,Electronics,Monitor,7,102.06,5,678.7,Online,Business
+ORD0133,2026-02-16,Muscat,Aisha,Electronics,Keyboard,2,22.89,0,45.78,Online,Individual
+ORD0215,2026-02-16,Sohar,Fatma,Office,Desk Lamp,8,17.21,0,137.68,Cash,Individual
+ORD0233,2026-02-16,Salalah,Noor,Electronics,Headphones,6,26.12,0,156.72,Online,Individual
+ORD0195,2026-02-17,Sohar,Ahmed,Accessories,Laptop Stand,3,19.97,0,59.91,Card,Individual
+ORD0201,2026-02-20,Sohar,Fatma,Electronics,Headphones,5,29.19,0,145.95,Card,Business
+ORD0089,2026-02-21,Salalah,Salim,Accessories,Mouse,8,11.7,5,88.92,Card,Individual
+ORD0182,2026-02-21,Sur,Layla,Office,Printer Paper,7,5.2,10,32.76,Cash,Individual
+ORD0035,2026-02-22,Sur,Layla,Office,Office Chair,5,72.44,5,344.09,Card,Individual
+ORD0128,2026-02-22,Muscat,Aisha,Accessories,USB Hub,12,14.61,5,166.55,Online,Individual
+ORD0174,2026-02-22,Sur,Omar,Office,Desk Lamp,5,17.45,10,78.53,Card,Individual
+ORD0013,2026-02-23,Salalah,Salim,Accessories,USB Hub,9,16.11,10,130.49,Card,Individual
+ORD0083,2026-02-23,Muscat,Mariam,Office,Notebook Pack,4,5.81,10,20.92,Card,Individual
+ORD0139,2026-02-23,Muscat,Aisha,Accessories,Power Bank,9,25.14,5,214.95,Online,Individual
+ORD0014,2026-02-25,Sur,Omar,Accessories,Laptop Stand,4,21.56,0,86.24,Card,Individual
+ORD0057,2026-02-25,Sur,Omar,Office,Office Chair,12,74.42,15,759.08,Card,Individual
+ORD0170,2026-02-25,Sur,Layla,Accessories,Laptop Stand,6,20.26,0,121.56,Online,Business
+ORD0196,2026-02-25,Nizwa,Yusuf,Accessories,Power Bank,5,22.34,0,111.7,Online,Individual
+ORD0217,2026-02-26,Muscat,Khalid,Office,Desk Lamp,10,19.19,10,172.71,Online,Individual
+ORD0021,2026-02-27,Muscat,Aisha,Electronics,Webcam,4,33.4,0,133.6,Card,Individual
+ORD0032,2026-02-28,Salalah,Noor,Accessories,USB Hub,9,14.71,0,132.39,Online,Business
+ORD0230,2026-03-01,Nizwa,Yusuf,Office,Office Chair,1,76.21,5,72.4,Cash,Business
+ORD0096,2026-03-02,Muscat,Khalid,Accessories,Mouse,7,12.33,5,81.99,Card,Individual
+ORD0163,2026-03-04,Sur,Layla,Accessories,Power Bank,5,25.36,0,126.8,Online,Individual
+ORD0145,2026-03-05,Sur,Layla,Accessories,Power Bank,12,24.79,10,267.73,Online,Business
+ORD0187,2026-03-05,Nizwa,Huda,Electronics,Webcam,9,33.11,10,268.19,Cash,Individual
+ORD0142,2026-03-06,Sohar,Ahmed,Electronics,Keyboard,5,20.5,0,102.5,Card,Individual
+ORD0106,2026-03-07,Salalah,Salim,Accessories,Laptop Stand,12,20.2,0,242.4,Card,Business
+ORD0043,2026-03-08,Sur,Omar,Electronics,Monitor,7,101.65,15,604.82,Online,Individual
+ORD0044,2026-03-08,Muscat,Aisha,Accessories,Mouse,1,12.17,0,12.17,Online,Business
+ORD0169,2026-03-09,Salalah,Salim,Electronics,Headphones,7,26.75,0,187.25,Card,Individual
+ORD0149,2026-03-10,Salalah,Salim,Accessories,USB Hub,10,14.91,5,141.64,Online,Business
+ORD0218,2026-03-10,Sohar,Fatma,Electronics,Monitor,11,97.24,0,1069.64,Cash,Business
+ORD0049,2026-03-11,Sohar,Ahmed,Electronics,Webcam,7,34.93,0,244.51,Online,Individual
+ORD0132,2026-03-11,Muscat,Aisha,Office,Notebook Pack,12,5.97,0,71.64,Online,Individual
+ORD0143,2026-03-12,Sohar,Ahmed,Electronics,Keyboard,3,20.74,0,62.22,Online,Individual
+ORD0226,2026-03-12,Sohar,Ahmed,Office,Office Chair,1,71.13,10,64.02,Card,Individual
+ORD0045,2026-03-13,Salalah,Noor,Accessories,USB Hub,1,15.05,10,13.55,Cash,Individual
+ORD0037,2026-03-14,Salalah,Noor,Office,Office Chair,8,68.47,10,492.98,Card,Individual
+ORD0115,2026-03-14,Sur,Layla,Office,Desk Lamp,5,17.23,0,86.15,Online,Individual
+ORD0051,2026-03-17,Salalah,Salim,Electronics,Monitor,6,91.84,10,495.94,Online,Individual
+ORD0059,2026-03-17,Muscat,Khalid,Electronics,Headphones,6,27.95,0,167.7,Online,Business
+ORD0092,2026-03-17,Muscat,Mariam,Electronics,Monitor,2,94.08,0,188.16,Card,Individual
+ORD0158,2026-03-17,Muscat,Khalid,Electronics,Webcam,3,37.58,5,107.1,Cash,Business
+ORD0062,2026-03-18,Nizwa,Yusuf,Electronics,Keyboard,10,21.63,10,194.67,Card,Individual
+ORD0219,2026-03-18,Nizwa,Yusuf,Electronics,Headphones,7,29.94,10,188.62,Online,Individual
+ORD0156,2026-03-19,Nizwa,Yusuf,Office,Office Chair,8,67.67,10,487.22,Card,Business
+ORD0042,2026-03-20,Salalah,Noor,Accessories,Laptop Stand,10,21.28,0,212.8,Online,Individual
+ORD0055,2026-03-22,Muscat,Aisha,Electronics,Headphones,10,29.39,10,264.51,Online,Individual
+ORD0108,2026-03-24,Muscat,Khalid,Accessories,Laptop Stand,11,19.35,5,202.21,Card,Business
+ORD0173,2026-03-24,Sur,Omar,Electronics,Webcam,12,33.59,10,362.77,Card,Business
+ORD0199,2026-03-25,Nizwa,Yusuf,Accessories,USB Hub,4,15.47,0,61.88,Cash,Business
+ORD0159,2026-03-26,Sohar,Ahmed,Office,Office Chair,8,73.76,0,590.08,Cash,Business
+ORD0234,2026-03-28,Sur,Omar,Office,Printer Paper,4,4.8,10,17.28,Card,Individual
+ORD0046,2026-03-29,Salalah,Noor,Accessories,Power Bank,3,25.27,0,75.81,Card,Individual
+ORD0227,2026-03-29,Sohar,Fatma,Office,Office Chair,11,76.94,0,846.34,Card,Individual
+ORD0027,2026-03-30,Muscat,Mariam,Electronics,Keyboard,6,23.3,0,139.8,Cash,Individual
+ORD0036,2026-03-30,Salalah,Salim,Electronics,Monitor,12,94.05,0,1128.6,Card,Individual
+ORD0079,2026-03-30,Nizwa,Huda,Electronics,Keyboard,1,23.47,0,23.47,Cash,Individual
+ORD0220,2026-03-30,Nizwa,Yusuf,Office,Notebook Pack,6,5.92,10,31.97,Online,Individual
+ORD0228,2026-03-31,Muscat,Aisha,Accessories,Laptop Stand,5,21.1,5,100.22,Card,Business
+ORD0238,2026-04-02,Salalah,Noor,Accessories,Laptop Stand,6,19.85,0,119.1,Card,Individual
+ORD0223,2026-04-03,Muscat,Khalid,Accessories,Power Bank,1,22.91,15,19.47,Card,Individual
+ORD0004,2026-04-04,Sohar,Fatma,Office,Notebook Pack,6,5.78,5,32.95,Online,Individual
+ORD0119,2026-04-05,Sur,Layla,Office,Notebook Pack,10,6.22,0,62.2,Card,Individual
+ORD0189,2026-04-05,Muscat,Aisha,Electronics,Monitor,4,99.55,0,398.2,Online,Business
+ORD0207,2026-04-05,Muscat,Khalid,Accessories,Mouse,9,11.77,5,100.63,Cash,Individual
+ORD0080,2026-04-06,Nizwa,Huda,Accessories,Power Bank,10,23.43,0,234.3,Online,Individual
+ORD0176,2026-04-06,Nizwa,Huda,Electronics,Webcam,10,35.09,5,333.36,Card,Individual
+ORD0124,2026-04-07,Nizwa,Yusuf,Electronics,Webcam,10,33.43,0,334.3,Cash,Individual
+ORD0153,2026-04-08,Nizwa,Yusuf,Accessories,Mouse,4,12.81,0,51.24,Cash,Individual
+ORD0007,2026-04-09,Salalah,Noor,Office,Printer Paper,9,4.81,0,43.29,Cash,Individual
+ORD0005,2026-04-10,Muscat,Khalid,Office,Printer Paper,12,5.02,0,60.24,Online,Individual
+ORD0192,2026-04-10,Sur,Omar,Electronics,Webcam,4,35.68,0,142.72,Card,Individual
+ORD0001,2026-04-11,Salalah,Salim,Electronics,Keyboard,7,21.1,5,140.31,Online,Individual
+ORD0099,2026-04-11,Muscat,Aisha,Accessories,Mouse,9,12.6,0,113.4,Online,Individual
+ORD0138,2026-04-12,Muscat,Aisha,Office,Notebook Pack,8,5.7,5,43.32,Online,Individual
+ORD0075,2026-04-14,Sohar,Ahmed,Electronics,Headphones,3,27.96,0,83.88,Cash,Individual
+ORD0091,2026-04-14,Nizwa,Huda,Electronics,Headphones,7,27.54,5,183.14,Online,Individual
+ORD0028,2026-04-15,Salalah,Salim,Accessories,Power Bank,10,24.59,0,245.9,Cash,Business
+ORD0061,2026-04-16,Nizwa,Yusuf,Electronics,Keyboard,8,20.66,0,165.28,Online,Individual
+ORD0003,2026-04-17,Nizwa,Yusuf,Accessories,USB Hub,10,15.03,0,150.3,Cash,Individual
+ORD0070,2026-04-17,Sohar,Fatma,Office,Notebook Pack,11,6.31,0,69.41,Card,Business
+ORD0103,2026-04-17,Muscat,Khalid,Electronics,Keyboard,12,22.82,0,273.84,Cash,Business
+ORD0162,2026-04-17,Muscat,Aisha,Accessories,USB Hub,11,16.03,0,176.33,Cash,Individual
+ORD0235,2026-04-17,Muscat,Mariam,Accessories,Power Bank,3,24.88,0,74.64,Cash,Individual
+ORD0222,2026-04-18,Muscat,Khalid,Electronics,Keyboard,11,23.38,0,257.18,Card,Business
+ORD0054,2026-04-19,Sohar,Ahmed,Office,Desk Lamp,1,17.12,5,16.26,Card,Individual
+ORD0033,2026-04-20,Muscat,Mariam,Electronics,Webcam,11,35.74,10,353.83,Online,Individual
+ORD0183,2026-04-21,Sohar,Ahmed,Office,Printer Paper,2,4.93,0,9.86,Card,Business
+ORD0084,2026-04-22,Sohar,Ahmed,Electronics,Monitor,6,100.83,5,574.73,Cash,Individual
+ORD0239,2026-04-22,Muscat,Aisha,Office,Notebook Pack,4,5.75,5,21.85,Online,Individual
+ORD0008,2026-04-23,Sohar,Fatma,Electronics,Monitor,12,94.54,5,1077.76,Cash,Individual
+ORD0031,2026-04-23,Nizwa,Yusuf,Office,Notebook Pack,7,6.36,0,44.52,Card,Individual
+ORD0127,2026-04-23,Sohar,Ahmed,Office,Printer Paper,5,4.84,0,24.2,Cash,Individual
+ORD0237,2026-04-23,Muscat,Aisha,Accessories,Power Bank,6,24.47,0,146.82,Cash,Individual
+ORD0010,2026-04-25,Muscat,Aisha,Accessories,Mouse,7,11.98,10,75.47,Online,Business
+ORD0069,2026-04-25,Muscat,Khalid,Electronics,Monitor,7,100.84,0,705.88,Card,Individual
+ORD0168,2026-04-25,Muscat,Mariam,Electronics,Webcam,5,32.7,0,163.5,Card,Individual
+ORD0077,2026-04-26,Nizwa,Yusuf,Electronics,Headphones,9,28.39,5,242.73,Card,Individual
+ORD0065,2026-04-28,Sur,Layla,Electronics,Monitor,4,101.44,0,405.76,Card,Individual
+ORD0072,2026-04-28,Nizwa,Yusuf,Electronics,Webcam,9,37.61,5,321.57,Cash,Individual
+ORD0073,2026-04-29,Sohar,Ahmed,Office,Printer Paper,4,4.67,5,17.75,Cash,Individual
+ORD0229,2026-04-29,Nizwa,Huda,Accessories,Laptop Stand,1,19.06,15,16.2,Online,Individual
+ORD0148,2026-04-30,Nizwa,Yusuf,Office,Printer Paper,4,5.23,0,20.92,Cash,Business
+ORD0231,2026-05-01,Sohar,Ahmed,Electronics,Headphones,10,26.33,0,263.3,Card,Individual
+ORD0017,2026-05-02,Nizwa,Huda,Office,Notebook Pack,8,6.07,5,46.13,Cash,Individual
+ORD0140,2026-05-02,Muscat,Khalid,Office,Printer Paper,11,4.86,0,53.46,Card,Individual
+ORD0121,2026-05-03,Salalah,Noor,Electronics,Keyboard,4,22.74,0,90.96,Online,Individual
+ORD0123,2026-05-03,Muscat,Khalid,Electronics,Headphones,12,26.18,0,314.16,Online,Business
+ORD0137,2026-05-03,Muscat,Khalid,Accessories,Mouse,7,12.71,10,80.07,Card,Individual
+ORD0166,2026-05-04,Muscat,Mariam,Office,Printer Paper,5,5.32,5,25.27,Card,Business
+ORD0181,2026-05-04,Nizwa,Yusuf,Electronics,Monitor,4,98.57,5,374.57,Card,Individual
+ORD0157,2026-05-07,Salalah,Salim,Office,Notebook Pack,9,6.26,10,50.71,Card,Business
+ORD0175,2026-05-07,Salalah,Salim,Accessories,Power Bank,5,23.98,0,119.9,Online,Individual
+ORD0076,2026-05-08,Sohar,Ahmed,Office,Office Chair,12,76.19,0,914.28,Cash,Individual
+ORD0030,2026-05-09,Muscat,Aisha,Office,Notebook Pack,5,6.17,5,29.31,Card,Business
+ORD0034,2026-05-09,Sur,Layla,Electronics,Webcam,6,35.71,5,203.55,Card,Individual
+ORD0205,2026-05-09,Sur,Omar,Accessories,Power Bank,1,23.16,15,19.69,Online,Individual
+ORD0224,2026-05-09,Muscat,Mariam,Accessories,Power Bank,6,22.43,10,121.12,Card,Business
+ORD0147,2026-05-10,Sur,Layla,Electronics,Webcam,7,34.67,0,242.69,Card,Individual
+ORD0093,2026-05-11,Muscat,Khalid,Office,Desk Lamp,10,17.77,0,177.7,Card,Business
+ORD0060,2026-05-12,Sohar,Ahmed,Accessories,Laptop Stand,12,19.62,0,235.44,Cash,Business
+ORD0190,2026-05-12,Sohar,Fatma,Office,Desk Lamp,2,17.66,0,35.32,Card,Business
+ORD0078,2026-05-13,Sohar,Fatma,Accessories,Laptop Stand,3,21.52,5,61.33,Cash,Individual
+ORD0204,2026-05-13,Muscat,Mariam,Electronics,Headphones,11,26.47,0,291.17,Card,Individual
+ORD0110,2026-05-14,Sur,Layla,Electronics,Headphones,4,28.54,0,114.16,Card,Business
+ORD0144,2026-05-14,Sur,Omar,Office,Desk Lamp,6,18.35,10,99.09,Cash,Business
+ORD0206,2026-05-14,Muscat,Aisha,Accessories,Laptop Stand,12,20.88,0,250.56,Cash,Individual
+ORD0066,2026-05-15,Nizwa,Huda,Accessories,Laptop Stand,12,20.87,0,250.44,Card,Individual
+ORD0023,2026-05-16,Salalah,Noor,Electronics,Keyboard,6,21.74,0,130.44,Online,Individual
+ORD0102,2026-05-17,Sur,Layla,Electronics,Webcam,1,35.99,0,35.99,Card,Individual
+ORD0081,2026-05-18,Nizwa,Yusuf,Accessories,Laptop Stand,11,21.07,10,208.59,Online,Individual
+ORD0088,2026-05-18,Muscat,Khalid,Office,Office Chair,8,72.52,0,580.16,Card,Individual
+ORD0120,2026-05-18,Sohar,Ahmed,Office,Office Chair,7,76.63,5,509.59,Online,Individual
+ORD0112,2026-05-19,Muscat,Aisha,Electronics,Webcam,12,35.79,5,408.01,Online,Individual
+ORD0029,2026-05-20,Nizwa,Huda,Office,Notebook Pack,8,5.69,0,45.52,Card,Individual
+ORD0213,2026-05-20,Muscat,Aisha,Accessories,Power Bank,1,23.35,0,23.35,Cash,Individual
+ORD0020,2026-05-21,Sohar,Fatma,Office,Office Chair,4,68.92,0,275.68,Cash,Individual
+ORD0160,2026-05-21,Muscat,Aisha,Electronics,Keyboard,4,20.46,5,77.75,Online,Individual
+ORD0041,2026-05-22,Sur,Layla,Office,Desk Lamp,5,17.76,0,88.8,Card,Business
+ORD0026,2026-05-24,Muscat,Aisha,Accessories,Power Bank,6,24.53,0,147.18,Cash,Business
+ORD0131,2026-05-24,Muscat,Aisha,Office,Notebook Pack,7,6.36,0,44.52,Card,Individual
+ORD0191,2026-05-25,Salalah,Noor,Office,Office Chair,6,75.83,15,386.73,Online,Individual
+ORD0209,2026-05-25,Sohar,Fatma,Office,Desk Lamp,12,18.05,15,184.11,Card,Individual
+ORD0056,2026-05-26,Muscat,Aisha,Electronics,Monitor,5,90.18,5,428.36,Card,Individual
+ORD0165,2026-05-26,Sur,Omar,Electronics,Webcam,3,34.74,0,104.22,Cash,Business
+ORD0184,2026-05-26,Sur,Omar,Electronics,Webcam,11,35.53,10,351.75,Online,Individual
+ORD0101,2026-06-01,Salalah,Salim,Office,Printer Paper,4,4.8,0,19.2,Online,Individual
+ORD0198,2026-06-01,Sohar,Ahmed,Electronics,Keyboard,8,22.68,5,172.37,Online,Individual
+ORD0018,2026-06-02,Muscat,Aisha,Electronics,Headphones,11,29.89,15,279.47,Online,Individual
+ORD0154,2026-06-02,Salalah,Noor,Office,Notebook Pack,12,5.87,10,63.4,Card,Individual
+ORD0090,2026-06-03,Sohar,Fatma,Accessories,Mouse,4,11.25,15,38.25,Cash,Individual
+ORD0185,2026-06-05,Salalah,Noor,Office,Office Chair,5,74.87,10,336.92,Online,Individual
+ORD0002,2026-06-06,Nizwa,Huda,Office,Office Chair,7,70.04,10,441.25,Cash,Business
+ORD0053,2026-06-07,Muscat,Aisha,Accessories,Mouse,1,11.4,5,10.83,Card,Individual
+ORD0100,2026-06-07,Sohar,Ahmed,Electronics,Keyboard,4,22.1,5,83.98,Online,Individual
+ORD0155,2026-06-07,Muscat,Khalid,Office,Notebook Pack,9,6.1,0,54.9,Card,Individual
+ORD0172,2026-06-07,Muscat,Aisha,Accessories,Laptop Stand,12,20.31,5,231.53,Card,Business
+ORD0074,2026-06-09,Muscat,Khalid,Electronics,Headphones,2,27.46,0,54.92,Card,Individual
+ORD0200,2026-06-09,Sur,Layla,Office,Notebook Pack,9,6.31,5,53.95,Card,Individual
+ORD0125,2026-06-10,Sohar,Ahmed,Accessories,Mouse,10,12.52,10,112.68,Card,Individual
+ORD0152,2026-06-10,Nizwa,Yusuf,Office,Notebook Pack,3,5.82,5,16.59,Online,Business
+ORD0117,2026-06-11,Muscat,Khalid,Electronics,Monitor,3,101.73,0,305.19,Cash,Business
+ORD0164,2026-06-12,Salalah,Noor,Accessories,Laptop Stand,9,19.12,0,172.08,Online,Business
+ORD0040,2026-06-13,Muscat,Mariam,Accessories,USB Hub,1,15.87,15,13.49,Card,Individual
+ORD0087,2026-06-15,Sur,Omar,Electronics,Headphones,5,29.58,5,140.5,Card,Individual
+ORD0094,2026-06-16,Sur,Omar,Accessories,Laptop Stand,6,19.11,15,97.46,Online,Business
+ORD0038,2026-06-17,Nizwa,Yusuf,Accessories,Power Bank,4,23.0,0,92.0,Card,Individual
+ORD0129,2026-06-17,Salalah,Noor,Accessories,Power Bank,3,24.31,10,65.64,Card,Business
+ORD0178,2026-06-18,Sur,Layla,Electronics,Headphones,4,26.22,0,104.88,Card,Individual
+ORD0180,2026-06-19,Muscat,Aisha,Accessories,Power Bank,11,25.45,5,265.95,Cash,Individual
+ORD0022,2026-06-20,Sohar,Fatma,Electronics,Monitor,5,92.29,0,461.45,Card,Individual
+ORD0118,2026-06-21,Nizwa,Yusuf,Accessories,Power Bank,7,23.63,5,157.14,Card,Business
+ORD0150,2026-06-22,Nizwa,Yusuf,Accessories,Laptop Stand,2,19.71,0,39.42,Card,Individual
+ORD0086,2026-06-23,Muscat,Khalid,Electronics,Keyboard,4,22.17,5,84.25,Card,Individual
+ORD0134,2026-06-23,Muscat,Khalid,Office,Notebook Pack,3,5.92,0,17.76,Online,Individual
+ORD0161,2026-06-23,Nizwa,Huda,Office,Office Chair,8,67.71,5,514.6,Online,Business
+ORD0012,2026-06-24,Nizwa,Yusuf,Electronics,Monitor,11,97.93,10,969.51,Cash,Business
+ORD0146,2026-06-24,Nizwa,Yusuf,Office,Desk Lamp,4,19.28,10,69.41,Online,Business
+ORD0188,2026-06-24,Nizwa,Yusuf,Accessories,Laptop Stand,3,21.29,0,63.87,Card,Individual
+ORD0210,2026-06-24,Salalah,Salim,Accessories,Power Bank,4,24.8,0,99.2,Cash,Individual
+ORD0214,2026-06-28,Nizwa,Yusuf,Electronics,Headphones,5,29.83,5,141.69,Online,Business
+ORD0024,2026-06-29,Muscat,Aisha,Electronics,Keyboard,12,23.55,0,282.6,Card,Individual
+ORD0107,2026-06-29,Muscat,Aisha,Electronics,Monitor,5,92.89,10,418.0,Cash,Individual
+ORD0111,2026-06-29,Sur,Omar,Office,Printer Paper,4,4.74,0,18.96,Online,Business
+ORD0113,2026-06-29,Salalah,Salim,Accessories,Laptop Stand,8,21.29,0,170.32,Online,Individual
+ORD0193,2026-06-29,Nizwa,Huda,Office,Notebook Pack,12,5.8,0,69.6,Online,Individual
+ORD0216,2026-06-29,Muscat,Khalid,Office,Printer Paper,4,5.16,5,19.61,Cash,Business
+ORD0047,2026-06-30,Muscat,Aisha,Accessories,Mouse,1,12.67,10,11.4,Online,Individual
